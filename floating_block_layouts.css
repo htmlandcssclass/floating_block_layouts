@@ -29,19 +29,19 @@ h1 {
     0 1px 0 rgba(0,0,0,.2);
 }
 
-.headline-floating {
+#headline-floating {
   background-color: #65a147; /* green */
   color: #efffe6; /* light green */
   -webkit-transform:rotate(-3deg) translateY(-50px);
 }
 
-.headline-block {
+#headline-block {
   background-color: #c8427c; /* pink */
   color: #ffe6f3; /* light pink */
   -webkit-transform:rotate(3deg) translateX(-2px) translateY(-20px);
 }
 
-.headline-layouts {
+#headline-layouts {
   background-color: #74307a; /* purple */
   color: #fce6ff; /* light purple */
 }
